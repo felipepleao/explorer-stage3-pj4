@@ -1,4 +1,4 @@
-# Explorer Stage 03 | Projeto 04 - Formulário
+# Explorer Stage 03 | Projeto 04 - Responsividade
 
 ![preview](image/preview.png)
 
